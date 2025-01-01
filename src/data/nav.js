@@ -4,4 +4,5 @@ export const navList = [
   "020_Weather_Forecast",
   "020_Weather_Forecast_Material_UI",
   "030_UserInfo",
+  "030_UserInfo_Material_UI",
 ];
