@@ -11,4 +11,5 @@ export const navList = [
   "060_language-switcher",
   "070_my-counter-app",
   "070_my-counter-app_Material_UI",
+  "080_my-task-app",
 ];
