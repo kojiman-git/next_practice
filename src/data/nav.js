@@ -8,4 +8,5 @@ export const navList = [
   "040_countdown-timer",
   "040_countdown-timer_Material_UI",
   "050_my-blog",
+  "060_language-switcher",
 ];
