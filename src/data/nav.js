@@ -14,4 +14,5 @@ export const navList = [
   "080_my-task-app",
   "080_my-task-app_Material_UI",
   "090_my-memo-app",
+  "090_my-memo-app_Material_UI",
 ];
