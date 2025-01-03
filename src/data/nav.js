@@ -16,4 +16,5 @@ export const navList = [
   "090_my-memo-app",
   "090_my-memo-app_Material_UI",
   "100_my-contact-list",
+  "100_my-contact-list_Material_UI",
 ];
