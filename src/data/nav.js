@@ -20,4 +20,5 @@ export const navList = [
   "110_my-form",
   "110_my-form_Material_UI",
   "120_shopping-cart-app",
+  "130_marker-app",
 ];
