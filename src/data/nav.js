@@ -24,4 +24,5 @@ export const navList = [
   "130_marker-app_Material_UI",
   "140_feedback-form-app",
   "150_bubbling",
+  "160_Quiz-app",
 ];
