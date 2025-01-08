@@ -12,13 +12,13 @@ export default function Home() {
       <ul>
         {posts.map(post => (
           <li key={post.id}>
-            <Link href={`/050_my-blog/posts/${post.id}`}>
+            <Link href={`/050_my-blog_AppRouter/posts/${post.id}`}>
               {post.title}
             </Link>
           </li>
         ))}
       </ul>
-      <Link href="/050_my-blog/create">Create New Post</Link>
+      <Link href="/050_my-blog_AppRouter/create">Create New Post</Link>
     </div>
   );
 }
